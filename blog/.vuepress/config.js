@@ -4,6 +4,7 @@ module.exports = {
     sidebar: [
       '/',
       '/about',
+      'workflow',
       {
         title: '2020',
         path: '/2020/',
